@@ -1,0 +1,3 @@
+# File Integrity Monitor uses only Python's standard library.
+# No external packages are required.
+# (Tested on Python 3.8+)
